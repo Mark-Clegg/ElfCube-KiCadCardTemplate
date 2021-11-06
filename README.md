@@ -1,4 +1,4 @@
-# Elf-Cube Template
+# Elf-Cube - Template
+Simple retro computer based on the 1802 series of processors.
 
-KiCad Template for Elf-Cube expansion cards. Copy the Elf-Cube folder to your KiCad templates
-folder (~/Documents/KiCad/template
+This is a KiCad template for designing new cards for the ElfCube system. It includes the base 100mm square board with the 40 pin backplane connector.
